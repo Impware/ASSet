@@ -1,4 +1,1 @@
-ASSet
-=====
-
-Hello World :v
+Hey guys, this repository is a non-stable library of asset scripts from game development using virtual engines like Unity, Blender...
